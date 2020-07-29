@@ -6,7 +6,7 @@
   <samp>
     <p align="center">
     I'm uoyoCsharp, A 
-    <em>(hopefully soon-not-to-be so-called) indie</em> software developer.
+    <em>(Hippy-like:'Buddhist-style'😂)</em> software developer.
     <br>
     Loves AspNet Core, Typescript, Azure and DDD.
      <br>
